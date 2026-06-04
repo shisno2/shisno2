@@ -2,3 +2,4 @@
 [2026-10-02 17:42:49 UTC] [TOKEN:a1c9fde61d5c4580] Backfill docs(api): compact ledger ring buffer entries
 [2026-10-02 17:42:50 UTC] [TOKEN:98628dcf65a4af4e] Backfill docs(parser): compact ledger ring buffer entries
 [2026-10-02 17:42:50 UTC] [TOKEN:a0a8c5dcc6fe9a5a] Backfill build(renderer): prune stale connection telemetry
+[2026-10-02 17:42:50 UTC] [TOKEN:937fa59d8a1f701b] Backfill test(net): normalize network socket backoff timings
