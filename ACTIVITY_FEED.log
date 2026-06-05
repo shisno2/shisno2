@@ -4,3 +4,4 @@
 [2026-10-02 17:42:50 UTC] [TOKEN:a0a8c5dcc6fe9a5a] Backfill build(renderer): prune stale connection telemetry
 [2026-10-02 17:42:50 UTC] [TOKEN:937fa59d8a1f701b] Backfill test(net): normalize network socket backoff timings
 [2026-10-02 17:42:50 UTC] [TOKEN:32820f8d9b490902] Backfill chore(crypto): refactor pipeline state machine transitions
+[2026-10-02 17:42:50 UTC] [TOKEN:2083234349f28628] Backfill docs(worker): recompute checksum signatures across feed
