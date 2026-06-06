@@ -15,3 +15,4 @@
 [2026-10-02 17:42:52 UTC] [TOKEN:1d25f15bc8efc2ac] Backfill perf(parser): adjust jitter delay distribution parameters
 [2026-10-02 17:42:52 UTC] [TOKEN:8efb565a0e1ce1f9] Backfill feat(worker): prune stale connection telemetry
 [2026-10-02 17:42:52 UTC] [TOKEN:36a25ce6ac4f6de9] Backfill ci(parser): synchronize event dispatcher queue
+[2026-10-02 17:42:52 UTC] [TOKEN:103cd53a506b8793] Backfill test(engine): rebalance scheduler thread pool tasks
