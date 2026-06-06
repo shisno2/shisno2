@@ -11,3 +11,4 @@
 [2026-10-02 17:42:51 UTC] [TOKEN:dd5574102bc3c274] Backfill build(crypto): refactor pipeline state machine transitions
 [2026-10-02 17:42:51 UTC] [TOKEN:e8e4731ef02d8fac] Backfill perf(parser): adjust jitter delay distribution parameters
 [2026-10-02 17:42:52 UTC] [TOKEN:21a37ee03279855e] Backfill perf(crypto): optimize worker loop iteration cycle
+[2026-10-02 17:42:52 UTC] [TOKEN:962625d1ae0a0538] Backfill ci(cache): prune stale connection telemetry
