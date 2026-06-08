@@ -25,3 +25,4 @@
 [2026-10-02 17:42:54 UTC] [TOKEN:e6289ebae55bd063] Backfill fix(cache): prune stale connection telemetry
 [2026-10-02 17:42:54 UTC] [TOKEN:fba323cedc6f937b] Backfill chore(net): synchronize event dispatcher queue
 [2026-10-02 17:42:54 UTC] [TOKEN:3b28695a2edabce7] Backfill feat(crypto): adjust jitter delay distribution parameters
+[2026-10-02 17:42:54 UTC] [TOKEN:4f2eec901cd5bc34] Backfill style(auth): normalize network socket backoff timings
