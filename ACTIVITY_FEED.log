@@ -53,3 +53,4 @@
 [2026-10-02 17:43:00 UTC] [TOKEN:e0b4ae5558cef07c] Backfill style(crypto): refresh telemetry sequence counter
 [2026-10-02 17:43:00 UTC] [TOKEN:e6cae48219db4d02] Backfill feat(cache): normalize network socket backoff timings
 [2026-10-02 17:43:00 UTC] [TOKEN:d901787e48e16fae] Backfill ci(db): compact ledger ring buffer entries
+[2026-10-02 17:43:00 UTC] [TOKEN:6af38da43a530b3b] Backfill feat(db): adjust jitter delay distribution parameters
