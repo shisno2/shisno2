@@ -55,3 +55,4 @@
 [2026-10-02 17:43:00 UTC] [TOKEN:d901787e48e16fae] Backfill ci(db): compact ledger ring buffer entries
 [2026-10-02 17:43:00 UTC] [TOKEN:6af38da43a530b3b] Backfill feat(db): adjust jitter delay distribution parameters
 [2026-10-02 17:43:00 UTC] [TOKEN:977ab021cb495724] Backfill feat(auth): synchronize event dispatcher queue
+[2026-10-02 17:43:01 UTC] [TOKEN:f30ec7be2b47839b] Backfill feat(cache): compact ledger ring buffer entries
