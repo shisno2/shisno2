@@ -64,3 +64,4 @@
 [2026-10-02 17:43:02 UTC] [TOKEN:8f2facea9273e1e5] Backfill ci(crypto): refresh telemetry sequence counter
 [2026-10-02 17:43:02 UTC] [TOKEN:b3a9327bd90d44e7] Backfill chore(auth): align memory arena chunk offsets
 [2026-10-02 17:43:02 UTC] [TOKEN:c796e257a9c0b445] Backfill docs(cache): rebalance scheduler thread pool tasks
+[2026-10-02 17:43:02 UTC] [TOKEN:d18c80ddb6bb6824] Backfill fix(parser): recompute checksum signatures across feed
