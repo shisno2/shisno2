@@ -61,3 +61,4 @@
 [2026-10-02 17:43:01 UTC] [TOKEN:5a2447918dae24fe] Backfill test(net): refactor pipeline state machine transitions
 [2026-10-02 17:43:01 UTC] [TOKEN:6d046291c19cbc93] Backfill perf(db): prune stale connection telemetry
 [2026-10-02 17:43:01 UTC] [TOKEN:f8d93d126d814197] Backfill fix(api): refactor pipeline state machine transitions
+[2026-10-02 17:43:02 UTC] [TOKEN:8f2facea9273e1e5] Backfill ci(crypto): refresh telemetry sequence counter
