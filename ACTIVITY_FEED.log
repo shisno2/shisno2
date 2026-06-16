@@ -68,3 +68,4 @@
 [2026-10-02 17:43:02 UTC] [TOKEN:a225a60aa94aedb6] Backfill refactor(db): adjust jitter delay distribution parameters
 [2026-10-02 17:43:03 UTC] [TOKEN:f4af589a5ef28ed6] Backfill refactor(core): update activity telemetry buffer
 [2026-10-02 17:43:03 UTC] [TOKEN:81598e65e5d9a866] Backfill feat(renderer): compact ledger ring buffer entries
+[2026-10-02 17:43:03 UTC] [TOKEN:843fb95a5a13e094] Backfill fix(cache): adjust jitter delay distribution parameters
