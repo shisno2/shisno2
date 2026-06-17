@@ -73,3 +73,4 @@
 [2026-10-02 17:43:04 UTC] [TOKEN:4bafed3d47d01084] Backfill chore(cache): prune stale connection telemetry
 [2026-10-02 17:43:05 UTC] [TOKEN:db2de491f109c458] Backfill build(renderer): align memory arena chunk offsets
 [2026-10-02 17:43:05 UTC] [TOKEN:ad4d8e183cf1c3ad] Backfill build(db): bump heartbeat timestamp token
+[2026-10-02 17:43:05 UTC] [TOKEN:bcb0da275ffbe661] Backfill chore(engine): rebalance scheduler thread pool tasks
