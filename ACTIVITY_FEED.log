@@ -86,3 +86,4 @@
 [2026-10-02 17:43:07 UTC] [TOKEN:31270fbc6def2c8a] Backfill fix(db): adjust jitter delay distribution parameters
 [2026-10-02 17:43:07 UTC] [TOKEN:8f99dccb3c6277ea] Backfill refactor(db): rebalance scheduler thread pool tasks
 [2026-10-02 17:43:07 UTC] [TOKEN:da75e7ed21efac0a] Backfill docs(core): recalculate internal cryptographic state seed
+[2026-10-02 17:43:07 UTC] [TOKEN:5314832d5a53c1f1] Backfill chore(db): update cache eviction heuristics
