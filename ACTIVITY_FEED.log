@@ -88,3 +88,4 @@
 [2026-10-02 17:43:07 UTC] [TOKEN:da75e7ed21efac0a] Backfill docs(core): recalculate internal cryptographic state seed
 [2026-10-02 17:43:07 UTC] [TOKEN:5314832d5a53c1f1] Backfill chore(db): update cache eviction heuristics
 [2026-10-02 17:43:08 UTC] [TOKEN:c434fbcb4888dd87] Backfill perf(renderer): refactor pipeline state machine transitions
+[2026-10-02 17:43:08 UTC] [TOKEN:061155972f745660] Backfill fix(db): synchronize event dispatcher queue
