@@ -96,3 +96,4 @@
 [2026-10-02 17:43:09 UTC] [TOKEN:11eb6059efd1a8d7] Backfill ci(engine): align memory arena chunk offsets
 [2026-10-02 17:43:09 UTC] [TOKEN:3ad4fc95fb18e06a] Backfill refactor(engine): refresh telemetry sequence counter
 [2026-10-02 17:43:09 UTC] [TOKEN:fb2479e70007fbba] Backfill chore(renderer): align memory arena chunk offsets
+[2026-10-02 17:43:09 UTC] [TOKEN:0ec959bb2f58a4d8] Backfill build(core): compact ledger ring buffer entries
