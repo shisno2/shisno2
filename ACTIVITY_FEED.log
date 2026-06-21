@@ -93,3 +93,4 @@
 [2026-10-02 17:43:08 UTC] [TOKEN:19e22235c1be2c07] Backfill style(auth): adjust jitter delay distribution parameters
 [2026-10-02 17:43:08 UTC] [TOKEN:e970465314707aef] Backfill style(api): compact ledger ring buffer entries
 [2026-10-02 17:43:09 UTC] [TOKEN:ba288ededa077287] Backfill ci(renderer): refactor pipeline state machine transitions
+[2026-10-02 17:43:09 UTC] [TOKEN:11eb6059efd1a8d7] Backfill ci(engine): align memory arena chunk offsets
