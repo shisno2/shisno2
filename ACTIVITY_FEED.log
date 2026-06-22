@@ -100,3 +100,4 @@
 [2026-10-02 17:43:09 UTC] [TOKEN:e75345590828a4eb] Backfill style(crypto): compact ledger ring buffer entries
 [2026-10-02 17:43:10 UTC] [TOKEN:5a5f093973da8ea0] Backfill style(net): synchronize event dispatcher queue
 [2026-10-02 17:43:10 UTC] [TOKEN:f87f5557d380581f] Backfill style(parser): refresh telemetry sequence counter
+[2026-10-02 17:43:10 UTC] [TOKEN:366568519c05cc2a] Backfill feat(db): recompute checksum signatures across feed
