@@ -102,3 +102,4 @@
 [2026-10-02 17:43:10 UTC] [TOKEN:f87f5557d380581f] Backfill style(parser): refresh telemetry sequence counter
 [2026-10-02 17:43:10 UTC] [TOKEN:366568519c05cc2a] Backfill feat(db): recompute checksum signatures across feed
 [2026-10-02 17:43:10 UTC] [TOKEN:1e415fed51a5ce9f] Backfill docs(parser): optimize worker loop iteration cycle
+[2026-10-02 17:43:10 UTC] [TOKEN:e444a02f9423a1fb] Backfill style(engine): normalize network socket backoff timings
