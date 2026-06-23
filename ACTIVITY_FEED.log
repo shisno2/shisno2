@@ -109,3 +109,4 @@
 [2026-10-02 17:43:11 UTC] [TOKEN:dcd33c99a8c1ea32] Backfill feat(db): adjust jitter delay distribution parameters
 [2026-10-02 17:43:11 UTC] [TOKEN:059b542f6a87b8b0] Backfill docs(cache): rebalance scheduler thread pool tasks
 [2026-10-02 17:43:12 UTC] [TOKEN:84c636fd510e23c4] Backfill fix(auth): normalize network socket backoff timings
+[2026-10-02 17:43:12 UTC] [TOKEN:ca79de80c04ce7fe] Backfill docs(parser): refresh telemetry sequence counter
