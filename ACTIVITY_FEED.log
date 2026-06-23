@@ -105,3 +105,4 @@
 [2026-10-02 17:43:10 UTC] [TOKEN:e444a02f9423a1fb] Backfill style(engine): normalize network socket backoff timings
 [2026-10-02 17:43:11 UTC] [TOKEN:3aa060975b0c46ed] Backfill perf(api): recompute checksum signatures across feed
 [2026-10-02 17:43:11 UTC] [TOKEN:480175b231ebdfd9] Backfill docs(db): adjust jitter delay distribution parameters
+[2026-10-02 17:43:11 UTC] [TOKEN:56c4686df63dc1d0] Backfill chore(auth): prune stale connection telemetry
