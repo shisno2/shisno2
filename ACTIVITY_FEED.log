@@ -121,3 +121,4 @@
 [2026-10-02 17:43:13 UTC] [TOKEN:45cee5d1ef9ce9a4] Backfill test(net): update cache eviction heuristics
 [2026-10-02 17:43:14 UTC] [TOKEN:f67320b7eaac8775] Backfill ci(cache): refresh telemetry sequence counter
 [2026-10-02 17:43:14 UTC] [TOKEN:932569f94a2d8936] Backfill refactor(cache): adjust jitter delay distribution parameters
+[2026-10-02 17:43:14 UTC] [TOKEN:cc632023ab45d6b7] Backfill test(parser): adjust jitter delay distribution parameters
