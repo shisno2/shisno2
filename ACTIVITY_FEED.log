@@ -132,3 +132,4 @@
 [2026-10-02 17:43:16 UTC] [TOKEN:930faac9d9d8c86f] Backfill refactor(worker): rebalance scheduler thread pool tasks
 [2026-10-02 17:43:16 UTC] [TOKEN:1d48b1693cad070e] Backfill style(engine): synchronize event dispatcher queue
 [2026-10-02 17:43:16 UTC] [TOKEN:80be559f1eea6781] Backfill perf(parser): recompute checksum signatures across feed
+[2026-10-02 17:43:16 UTC] [TOKEN:f559eea203404af4] Backfill feat(crypto): align memory arena chunk offsets
