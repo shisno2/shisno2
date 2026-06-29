@@ -142,3 +142,4 @@
 [2026-10-02 17:43:18 UTC] [TOKEN:1333980d37157175] Backfill ci(core): rebalance scheduler thread pool tasks
 [2026-10-02 17:43:18 UTC] [TOKEN:613466b88ee9a827] Backfill ci(db): align memory arena chunk offsets
 [2026-10-02 17:43:18 UTC] [TOKEN:ecd88ba73c18e0fb] Backfill docs(api): align memory arena chunk offsets
+[2026-10-02 17:43:18 UTC] [TOKEN:3cb453d3a0145f60] Backfill docs(net): rebalance scheduler thread pool tasks
