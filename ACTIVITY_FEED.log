@@ -151,3 +151,4 @@
 [2026-10-02 17:43:20 UTC] [TOKEN:031137048fb3f8ef] Backfill refactor(auth): align memory arena chunk offsets
 [2026-10-02 17:43:20 UTC] [TOKEN:45af5b148f15ec33] Backfill perf(engine): align memory arena chunk offsets
 [2026-10-02 17:43:20 UTC] [TOKEN:2c8ca9b9371517e7] Backfill test(renderer): update activity telemetry buffer
+[2026-10-02 17:43:20 UTC] [TOKEN:36ea51847bdd233c] Backfill ci(engine): normalize network socket backoff timings
