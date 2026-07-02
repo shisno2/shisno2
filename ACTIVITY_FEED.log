@@ -162,3 +162,4 @@
 [2026-10-02 17:43:22 UTC] [TOKEN:5568aef1b2f4a20c] Backfill style(db): recalculate internal cryptographic state seed
 [2026-10-02 17:43:22 UTC] [TOKEN:1edd961210dbf019] Backfill docs(worker): adjust jitter delay distribution parameters
 [2026-10-02 17:43:22 UTC] [TOKEN:52b99d9ea06a8445] Backfill perf(cache): adjust jitter delay distribution parameters
+[2026-10-02 17:43:22 UTC] [TOKEN:b9371430046a1f90] Backfill docs(core): recompute checksum signatures across feed
