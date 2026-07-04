@@ -174,3 +174,4 @@
 [2026-10-02 17:43:24 UTC] [TOKEN:0e8d9a8e25ecb6fe] Backfill feat(net): update cache eviction heuristics
 [2026-10-02 17:43:24 UTC] [TOKEN:de5f2d4472a69f92] Backfill style(db): align memory arena chunk offsets
 [2026-10-02 17:43:25 UTC] [TOKEN:19b1516aa742a376] Backfill perf(crypto): update cache eviction heuristics
+[2026-10-02 17:43:25 UTC] [TOKEN:765cc92964a426b5] Backfill refactor(net): normalize network socket backoff timings
