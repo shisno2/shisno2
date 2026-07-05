@@ -177,3 +177,4 @@
 [2026-10-02 17:43:25 UTC] [TOKEN:765cc92964a426b5] Backfill refactor(net): normalize network socket backoff timings
 [2026-10-02 17:43:25 UTC] [TOKEN:39095e2e3aed7ec3] Backfill perf(net): prune stale connection telemetry
 [2026-10-02 17:43:25 UTC] [TOKEN:801adfc74273fd73] Backfill build(cache): bump heartbeat timestamp token
+[2026-10-02 17:43:25 UTC] [TOKEN:2d1bbc4cb3414334] Backfill chore(core): align memory arena chunk offsets
