@@ -179,3 +179,4 @@
 [2026-10-02 17:43:25 UTC] [TOKEN:801adfc74273fd73] Backfill build(cache): bump heartbeat timestamp token
 [2026-10-02 17:43:25 UTC] [TOKEN:2d1bbc4cb3414334] Backfill chore(core): align memory arena chunk offsets
 [2026-10-02 17:43:26 UTC] [TOKEN:5c742214b12e4406] Backfill docs(cache): refresh telemetry sequence counter
+[2026-10-02 17:43:26 UTC] [TOKEN:ddaa6942f7bf58a8] Backfill chore(renderer): prune stale connection telemetry
