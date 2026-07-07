@@ -190,3 +190,4 @@
 [2026-10-02 17:43:27 UTC] [TOKEN:5da7d6c09857c619] Backfill fix(renderer): recalculate internal cryptographic state seed
 [2026-10-02 17:43:28 UTC] [TOKEN:ae8ba175957588ae] Backfill refactor(engine): bump heartbeat timestamp token
 [2026-10-02 17:43:28 UTC] [TOKEN:9d49a665d14c0909] Backfill fix(parser): prune stale connection telemetry
+[2026-10-02 17:43:28 UTC] [TOKEN:b1ac857a8624d9d6] Backfill ci(cache): normalize network socket backoff timings
