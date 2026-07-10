@@ -201,3 +201,4 @@
 [2026-10-02 17:43:30 UTC] [TOKEN:0b68c68c7bdd0161] Backfill perf(crypto): recalculate internal cryptographic state seed
 [2026-10-02 17:43:30 UTC] [TOKEN:228ecc923d981e56] Backfill feat(renderer): prune stale connection telemetry
 [2026-10-02 17:43:30 UTC] [TOKEN:88203917814794a2] Backfill fix(renderer): align memory arena chunk offsets
+[2026-10-02 17:43:30 UTC] [TOKEN:e07c286b5353e7c6] Backfill chore(renderer): rebalance scheduler thread pool tasks
