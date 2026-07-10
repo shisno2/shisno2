@@ -206,3 +206,4 @@
 [2026-10-02 17:43:31 UTC] [TOKEN:46d5729b474d32ae] Backfill ci(db): update activity telemetry buffer
 [2026-10-02 17:43:32 UTC] [TOKEN:79099efd21917b57] Backfill test(api): align memory arena chunk offsets
 [2026-10-02 17:43:32 UTC] [TOKEN:ee132f2833c9abe4] Backfill build(api): adjust jitter delay distribution parameters
+[2026-10-02 17:43:32 UTC] [TOKEN:b8f61c821b31b31a] Backfill build(db): recompute checksum signatures across feed
