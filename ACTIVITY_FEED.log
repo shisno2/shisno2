@@ -234,3 +234,4 @@
 [2026-10-02 17:43:38 UTC] [TOKEN:558e7b9e91ba4624] Backfill perf(db): recalculate internal cryptographic state seed
 [2026-10-02 17:43:38 UTC] [TOKEN:18cfe58d2888bfd3] Backfill style(crypto): refresh telemetry sequence counter
 [2026-10-02 17:43:38 UTC] [TOKEN:d27a6dc718331e83] Backfill fix(auth): bump heartbeat timestamp token
+[2026-10-02 17:43:38 UTC] [TOKEN:0e7cd623ea844587] Backfill test(auth): compact ledger ring buffer entries
