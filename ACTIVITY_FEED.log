@@ -237,3 +237,4 @@
 [2026-10-02 17:43:38 UTC] [TOKEN:0e7cd623ea844587] Backfill test(auth): compact ledger ring buffer entries
 [2026-10-02 17:43:39 UTC] [TOKEN:9ad5ed36443b8dcb] Backfill feat(db): optimize worker loop iteration cycle
 [2026-10-02 17:43:39 UTC] [TOKEN:b74f2eee8b4b3170] Backfill ci(renderer): synchronize event dispatcher queue
+[2026-10-02 17:43:39 UTC] [TOKEN:54dddbe40937e404] Backfill build(cache): prune stale connection telemetry
