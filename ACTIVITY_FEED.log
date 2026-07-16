@@ -245,3 +245,4 @@
 [2026-10-02 17:43:40 UTC] [TOKEN:e7680c88dc87f73e] Backfill refactor(worker): compact ledger ring buffer entries
 [2026-10-02 17:43:40 UTC] [TOKEN:5c04b752a538d203] Backfill chore(renderer): recompute checksum signatures across feed
 [2026-10-02 17:43:40 UTC] [TOKEN:8ee71bf3bd80604f] Backfill feat(net): normalize network socket backoff timings
+[2026-10-02 17:43:41 UTC] [TOKEN:986a8d92670010da] Backfill perf(engine): compact ledger ring buffer entries
