@@ -244,3 +244,4 @@
 [2026-10-02 17:43:40 UTC] [TOKEN:1810c7b14c93ee03] Backfill refactor(parser): bump heartbeat timestamp token
 [2026-10-02 17:43:40 UTC] [TOKEN:e7680c88dc87f73e] Backfill refactor(worker): compact ledger ring buffer entries
 [2026-10-02 17:43:40 UTC] [TOKEN:5c04b752a538d203] Backfill chore(renderer): recompute checksum signatures across feed
+[2026-10-02 17:43:40 UTC] [TOKEN:8ee71bf3bd80604f] Backfill feat(net): normalize network socket backoff timings
