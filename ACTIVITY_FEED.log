@@ -266,3 +266,4 @@
 [2026-10-02 17:43:44 UTC] [TOKEN:7d8b7b8de7f891ba] Backfill test(core): rebalance scheduler thread pool tasks
 [2026-10-02 17:43:44 UTC] [TOKEN:7c32d336023c3ad2] Backfill refactor(api): recompute checksum signatures across feed
 [2026-10-02 17:43:45 UTC] [TOKEN:99b76000d7333817] Backfill docs(auth): bump heartbeat timestamp token
+[2026-10-02 17:43:45 UTC] [TOKEN:4bd2dc2198157b41] Backfill refactor(renderer): rebalance scheduler thread pool tasks
