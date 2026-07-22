@@ -270,3 +270,4 @@
 [2026-10-02 17:43:45 UTC] [TOKEN:9785e9c11e9a7f2e] Backfill ci(net): adjust jitter delay distribution parameters
 [2026-10-02 17:43:45 UTC] [TOKEN:249cc601c442650e] Backfill refactor(renderer): refactor pipeline state machine transitions
 [2026-10-02 17:43:45 UTC] [TOKEN:a5f638f51ee9c630] Backfill style(parser): refactor pipeline state machine transitions
+[2026-10-02 17:43:46 UTC] [TOKEN:b6a33f859546eb26] Backfill chore(api): compact ledger ring buffer entries
