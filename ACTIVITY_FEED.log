@@ -277,3 +277,4 @@
 [2026-10-02 17:43:46 UTC] [TOKEN:cc00d57f7dfb4554] Backfill feat(db): compact ledger ring buffer entries
 [2026-10-02 17:43:47 UTC] [TOKEN:ab478895a478f2df] Backfill build(parser): update activity telemetry buffer
 [2026-10-02 17:43:47 UTC] [TOKEN:8c95e61facc98e48] Backfill docs(renderer): recalculate internal cryptographic state seed
+[2026-10-02 17:43:47 UTC] [TOKEN:476720c2bf7e74fe] Backfill chore(crypto): normalize network socket backoff timings
