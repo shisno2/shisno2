@@ -283,3 +283,4 @@
 [2026-10-02 17:43:47 UTC] [TOKEN:5fc79176abd0a4fd] Backfill chore(renderer): prune stale connection telemetry
 [2026-10-02 17:43:48 UTC] [TOKEN:5692c3aabf3e6cf2] Backfill fix(net): update cache eviction heuristics
 [2026-10-02 17:43:48 UTC] [TOKEN:5a498a74210d657b] Backfill perf(parser): bump heartbeat timestamp token
+[2026-10-02 17:43:48 UTC] [TOKEN:d2c4d5b89233c731] Backfill chore(engine): align memory arena chunk offsets
