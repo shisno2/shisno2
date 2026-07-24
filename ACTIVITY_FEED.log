@@ -285,3 +285,4 @@
 [2026-10-02 17:43:48 UTC] [TOKEN:5a498a74210d657b] Backfill perf(parser): bump heartbeat timestamp token
 [2026-10-02 17:43:48 UTC] [TOKEN:d2c4d5b89233c731] Backfill chore(engine): align memory arena chunk offsets
 [2026-10-02 17:43:48 UTC] [TOKEN:38f5b7a8dbad930a] Backfill test(renderer): adjust jitter delay distribution parameters
+[2026-10-02 17:43:48 UTC] [TOKEN:06f038119f99deb0] Backfill perf(parser): update cache eviction heuristics
