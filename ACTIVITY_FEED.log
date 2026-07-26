@@ -296,3 +296,4 @@
 [2026-10-02 17:43:50 UTC] [TOKEN:72f09c751258011c] Backfill ci(db): bump heartbeat timestamp token
 [2026-10-02 17:43:50 UTC] [TOKEN:7c9bc4fd1e7e16cf] Backfill build(net): recompute checksum signatures across feed
 [2026-10-02 17:43:50 UTC] [TOKEN:ed30b81d789b656f] Backfill perf(engine): synchronize event dispatcher queue
+[2026-10-02 17:43:51 UTC] [TOKEN:da5cb3c8db547689] Backfill build(api): prune stale connection telemetry
