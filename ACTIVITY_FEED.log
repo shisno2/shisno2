@@ -307,3 +307,4 @@
 [2026-10-02 17:43:52 UTC] [TOKEN:0783cccd5cac68ce] Backfill feat(db): normalize network socket backoff timings
 [2026-10-02 17:43:52 UTC] [TOKEN:42a860db25910919] Backfill style(cache): update cache eviction heuristics
 [2026-10-02 17:43:53 UTC] [TOKEN:ab1e7140ec4193fa] Backfill style(auth): recompute checksum signatures across feed
+[2026-10-02 17:43:53 UTC] [TOKEN:fd90a8032dc012c6] Backfill fix(core): synchronize event dispatcher queue
