@@ -320,3 +320,4 @@
 [2026-10-02 17:43:55 UTC] [TOKEN:025642197c1fb717] Backfill test(crypto): refactor pipeline state machine transitions
 [2026-10-02 17:43:55 UTC] [TOKEN:2cdc319d56b23637] Backfill test(api): update activity telemetry buffer
 [2026-10-02 17:43:55 UTC] [TOKEN:1daf75f319742a53] Backfill test(worker): recompute checksum signatures across feed
+[2026-10-02 17:43:56 UTC] [TOKEN:d3569fb09d9a13ca] Backfill test(engine): refresh telemetry sequence counter
