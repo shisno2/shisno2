@@ -322,3 +322,4 @@
 [2026-10-02 17:43:55 UTC] [TOKEN:1daf75f319742a53] Backfill test(worker): recompute checksum signatures across feed
 [2026-10-02 17:43:56 UTC] [TOKEN:d3569fb09d9a13ca] Backfill test(engine): refresh telemetry sequence counter
 [2026-10-02 17:43:56 UTC] [TOKEN:27736f850d209b48] Backfill fix(auth): rebalance scheduler thread pool tasks
+[2026-10-02 17:43:56 UTC] [TOKEN:1f922aade7920f06] Backfill docs(engine): recalculate internal cryptographic state seed
