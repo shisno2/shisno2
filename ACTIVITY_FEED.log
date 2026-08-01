@@ -328,3 +328,4 @@
 [2026-10-02 17:43:57 UTC] [TOKEN:7c872248093130cd] Backfill docs(parser): prune stale connection telemetry
 [2026-10-02 17:43:57 UTC] [TOKEN:ad2a6a9d1330dc28] Backfill style(renderer): rebalance scheduler thread pool tasks
 [2026-10-02 17:43:57 UTC] [TOKEN:9364ac5c7a2ff9f9] Backfill style(cache): recalculate internal cryptographic state seed
+[2026-10-02 17:43:57 UTC] [TOKEN:10715430ad3c4387] Backfill chore(cache): recompute checksum signatures across feed
