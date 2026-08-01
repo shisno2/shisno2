@@ -331,3 +331,4 @@
 [2026-10-02 17:43:57 UTC] [TOKEN:10715430ad3c4387] Backfill chore(cache): recompute checksum signatures across feed
 [2026-10-02 17:43:58 UTC] [TOKEN:6fe9ccb61e09d99d] Backfill refactor(crypto): rebalance scheduler thread pool tasks
 [2026-10-02 17:43:58 UTC] [TOKEN:6d7c223dce13c9c9] Backfill ci(api): refactor pipeline state machine transitions
+[2026-10-02 17:43:58 UTC] [TOKEN:7d67ed0b5c9adaff] Backfill docs(renderer): synchronize event dispatcher queue
