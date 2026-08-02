@@ -334,3 +334,4 @@
 [2026-10-02 17:43:58 UTC] [TOKEN:7d67ed0b5c9adaff] Backfill docs(renderer): synchronize event dispatcher queue
 [2026-10-02 17:43:58 UTC] [TOKEN:0cd5e1389ba9a616] Backfill fix(worker): refactor pipeline state machine transitions
 [2026-10-02 17:43:58 UTC] [TOKEN:c22dd8d408579048] Backfill fix(cache): prune stale connection telemetry
+[2026-10-02 17:43:59 UTC] [TOKEN:de9c90712523f419] Backfill style(renderer): recompute checksum signatures across feed
