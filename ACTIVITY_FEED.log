@@ -341,3 +341,4 @@
 [2026-10-02 17:43:59 UTC] [TOKEN:5f2bfc2b33aff5ec] Backfill fix(core): adjust jitter delay distribution parameters
 [2026-10-02 17:44:00 UTC] [TOKEN:837a28a08afb4643] Backfill ci(engine): normalize network socket backoff timings
 [2026-10-02 17:44:00 UTC] [TOKEN:b94d3bbed91d2d07] Backfill perf(renderer): update cache eviction heuristics
+[2026-10-02 17:44:00 UTC] [TOKEN:b4e023a3a8929eaf] Backfill docs(parser): normalize network socket backoff timings
