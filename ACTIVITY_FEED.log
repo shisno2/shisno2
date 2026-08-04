@@ -343,3 +343,4 @@
 [2026-10-02 17:44:00 UTC] [TOKEN:b94d3bbed91d2d07] Backfill perf(renderer): update cache eviction heuristics
 [2026-10-02 17:44:00 UTC] [TOKEN:b4e023a3a8929eaf] Backfill docs(parser): normalize network socket backoff timings
 [2026-10-02 17:44:00 UTC] [TOKEN:0a84f0dcfc4062a1] Backfill build(renderer): recompute checksum signatures across feed
+[2026-10-02 17:44:00 UTC] [TOKEN:3da51103991bbc7d] Backfill feat(parser): normalize network socket backoff timings
