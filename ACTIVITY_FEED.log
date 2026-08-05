@@ -353,3 +353,4 @@
 [2026-10-02 17:44:02 UTC] [TOKEN:5be85a782744ecc2] Backfill docs(db): recalculate internal cryptographic state seed
 [2026-10-02 17:44:02 UTC] [TOKEN:26c479a4d0cfcfbf] Backfill refactor(parser): compact ledger ring buffer entries
 [2026-10-02 17:44:02 UTC] [TOKEN:f2e489fb8b4966a8] Backfill build(engine): synchronize event dispatcher queue
+[2026-10-02 17:44:03 UTC] [TOKEN:3af02ba8ea99ac44] Backfill chore(db): normalize network socket backoff timings
