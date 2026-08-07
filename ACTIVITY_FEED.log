@@ -367,3 +367,4 @@
 [2026-10-02 17:44:05 UTC] [TOKEN:53d84ed75e31b0e4] Backfill ci(parser): recalculate internal cryptographic state seed
 [2026-10-02 17:44:05 UTC] [TOKEN:98df689f3674e249] Backfill test(crypto): refresh telemetry sequence counter
 [2026-10-02 17:44:06 UTC] [TOKEN:18c2727d287703da] Backfill refactor(net): prune stale connection telemetry
+[2026-10-02 17:44:06 UTC] [TOKEN:26858faf3a922e16] Backfill refactor(net): synchronize event dispatcher queue
