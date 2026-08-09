@@ -376,3 +376,4 @@
 [2026-10-02 17:44:07 UTC] [TOKEN:3ae8dc93fd254229] Backfill perf(renderer): recompute checksum signatures across feed
 [2026-10-02 17:44:08 UTC] [TOKEN:1479f435971a78f8] Backfill test(api): normalize network socket backoff timings
 [2026-10-02 17:44:08 UTC] [TOKEN:a4d6f60d6dd0aa31] Backfill test(worker): prune stale connection telemetry
+[2026-10-02 17:44:08 UTC] [TOKEN:9c5d72eafbd85858] Backfill ci(api): compact ledger ring buffer entries
