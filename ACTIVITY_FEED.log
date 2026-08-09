@@ -378,3 +378,4 @@
 [2026-10-02 17:44:08 UTC] [TOKEN:a4d6f60d6dd0aa31] Backfill test(worker): prune stale connection telemetry
 [2026-10-02 17:44:08 UTC] [TOKEN:9c5d72eafbd85858] Backfill ci(api): compact ledger ring buffer entries
 [2026-10-02 17:44:08 UTC] [TOKEN:5906d2b7dec61376] Backfill feat(renderer): update activity telemetry buffer
+[2026-10-02 17:44:08 UTC] [TOKEN:8692d53ea97624b6] Backfill refactor(auth): refactor pipeline state machine transitions
