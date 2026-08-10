@@ -388,3 +388,4 @@
 [2026-10-02 17:44:10 UTC] [TOKEN:4e2ac26c6286d4ce] Backfill test(core): normalize network socket backoff timings
 [2026-10-02 17:44:10 UTC] [TOKEN:52e1fc2f54fd91e4] Backfill chore(worker): adjust jitter delay distribution parameters
 [2026-10-02 17:44:11 UTC] [TOKEN:69fedc1314c81e02] Backfill ci(crypto): compact ledger ring buffer entries
+[2026-10-02 17:44:11 UTC] [TOKEN:8971579759871e84] Backfill refactor(api): compact ledger ring buffer entries
