@@ -385,3 +385,4 @@
 [2026-10-02 17:44:09 UTC] [TOKEN:0be94e846025e97d] Backfill perf(engine): optimize worker loop iteration cycle
 [2026-10-02 17:44:10 UTC] [TOKEN:7f0ac2ae51c511e0] Backfill docs(worker): align memory arena chunk offsets
 [2026-10-02 17:44:10 UTC] [TOKEN:e66c1cd1f53dc68f] Backfill refactor(crypto): refactor pipeline state machine transitions
+[2026-10-02 17:44:10 UTC] [TOKEN:4e2ac26c6286d4ce] Backfill test(core): normalize network socket backoff timings
