@@ -392,3 +392,4 @@
 [2026-10-02 17:44:11 UTC] [TOKEN:aead12508dda3247] Backfill perf(parser): align memory arena chunk offsets
 [2026-10-02 17:44:11 UTC] [TOKEN:501fdc72a33da328] Backfill docs(net): optimize worker loop iteration cycle
 [2026-10-02 17:44:11 UTC] [TOKEN:68ae7b478f6e238d] Backfill test(api): adjust jitter delay distribution parameters
+[2026-10-02 17:44:12 UTC] [TOKEN:635d04695fd0ffbe] Backfill docs(engine): refresh telemetry sequence counter
