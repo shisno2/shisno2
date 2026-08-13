@@ -400,3 +400,4 @@
 [2026-10-02 17:44:13 UTC] [TOKEN:05c8c8ada2548555] Backfill build(core): prune stale connection telemetry
 [2026-10-02 17:44:13 UTC] [TOKEN:c2ba550bf1220a3c] Backfill test(crypto): update cache eviction heuristics
 [2026-10-02 17:44:15 UTC] [TOKEN:7b6dfa6401916dcc] Backfill feat(renderer): recalculate internal cryptographic state seed
+[2026-10-02 17:44:15 UTC] [TOKEN:947ec73248bdcc7c] Backfill build(parser): refresh telemetry sequence counter
