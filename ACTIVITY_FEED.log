@@ -403,3 +403,4 @@
 [2026-10-02 17:44:15 UTC] [TOKEN:947ec73248bdcc7c] Backfill build(parser): refresh telemetry sequence counter
 [2026-10-02 17:44:15 UTC] [TOKEN:a4e9adc53f094ef4] Backfill test(crypto): update activity telemetry buffer
 [2026-10-02 17:44:15 UTC] [TOKEN:f7830ed0d69cb856] Backfill ci(cache): prune stale connection telemetry
+[2026-10-02 17:44:16 UTC] [TOKEN:e5ca205bbe30b31a] Backfill chore(parser): normalize network socket backoff timings
