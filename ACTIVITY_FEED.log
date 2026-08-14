@@ -405,3 +405,4 @@
 [2026-10-02 17:44:15 UTC] [TOKEN:f7830ed0d69cb856] Backfill ci(cache): prune stale connection telemetry
 [2026-10-02 17:44:16 UTC] [TOKEN:e5ca205bbe30b31a] Backfill chore(parser): normalize network socket backoff timings
 [2026-10-02 17:44:16 UTC] [TOKEN:006c1c2390b7d412] Backfill build(crypto): recompute checksum signatures across feed
+[2026-10-02 17:44:16 UTC] [TOKEN:773bfb311fe87d76] Backfill ci(renderer): compact ledger ring buffer entries
