@@ -412,3 +412,4 @@
 [2026-10-02 17:44:17 UTC] [TOKEN:9b5f40e0ce48c4a0] Backfill refactor(db): align memory arena chunk offsets
 [2026-10-02 17:44:17 UTC] [TOKEN:80a6d55638243eba] Backfill docs(renderer): refactor pipeline state machine transitions
 [2026-10-02 17:44:17 UTC] [TOKEN:729fd20b8be4afa7] Backfill fix(net): synchronize event dispatcher queue
+[2026-10-02 17:44:18 UTC] [TOKEN:1a694067604bcd1d] Backfill docs(cache): adjust jitter delay distribution parameters
