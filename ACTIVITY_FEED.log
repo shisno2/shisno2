@@ -408,3 +408,4 @@
 [2026-10-02 17:44:16 UTC] [TOKEN:773bfb311fe87d76] Backfill ci(renderer): compact ledger ring buffer entries
 [2026-10-02 17:44:16 UTC] [TOKEN:c94c7f80e68585a4] Backfill refactor(net): bump heartbeat timestamp token
 [2026-10-02 17:44:17 UTC] [TOKEN:5e4139ff789621df] Backfill docs(db): bump heartbeat timestamp token
+[2026-10-02 17:44:17 UTC] [TOKEN:cf85b1752d891b0e] Backfill perf(core): rebalance scheduler thread pool tasks
