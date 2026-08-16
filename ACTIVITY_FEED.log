@@ -415,3 +415,4 @@
 [2026-10-02 17:44:18 UTC] [TOKEN:1a694067604bcd1d] Backfill docs(cache): adjust jitter delay distribution parameters
 [2026-10-02 17:44:18 UTC] [TOKEN:10a3e0cbd7104922] Backfill refactor(core): align memory arena chunk offsets
 [2026-10-02 17:44:18 UTC] [TOKEN:f621088b0d4ab35b] Backfill perf(cache): synchronize event dispatcher queue
+[2026-10-02 17:44:18 UTC] [TOKEN:faa4ef7357ed37f2] Backfill style(auth): normalize network socket backoff timings
