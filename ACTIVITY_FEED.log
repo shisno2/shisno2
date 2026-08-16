@@ -418,3 +418,4 @@
 [2026-10-02 17:44:18 UTC] [TOKEN:faa4ef7357ed37f2] Backfill style(auth): normalize network socket backoff timings
 [2026-10-02 17:44:19 UTC] [TOKEN:e3b9540a632038bb] Backfill refactor(api): normalize network socket backoff timings
 [2026-10-02 17:44:19 UTC] [TOKEN:466f91d34582ab32] Backfill style(engine): prune stale connection telemetry
+[2026-10-02 17:44:19 UTC] [TOKEN:7c24b9a61bff3177] Backfill test(core): refactor pipeline state machine transitions
