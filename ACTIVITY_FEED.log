@@ -423,3 +423,4 @@
 [2026-10-02 17:44:19 UTC] [TOKEN:42ad222bd6b84c6f] Backfill chore(worker): compact ledger ring buffer entries
 [2026-10-02 17:44:20 UTC] [TOKEN:a64685258bd75d29] Backfill style(worker): update activity telemetry buffer
 [2026-10-02 17:44:20 UTC] [TOKEN:2abd3c6d6e082d84] Backfill perf(parser): normalize network socket backoff timings
+[2026-10-02 17:44:20 UTC] [TOKEN:b5a0d8960ab82b1e] Backfill style(auth): adjust jitter delay distribution parameters
