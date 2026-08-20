@@ -447,3 +447,4 @@
 [2026-10-02 17:44:25 UTC] [TOKEN:3e31dc44588e9060] Backfill perf(cache): bump heartbeat timestamp token
 [2026-10-02 17:44:25 UTC] [TOKEN:1cfae522f2f7c99b] Backfill build(core): rebalance scheduler thread pool tasks
 [2026-10-02 17:44:25 UTC] [TOKEN:6c3b017910f6c400] Backfill build(core): prune stale connection telemetry
+[2026-10-02 17:44:25 UTC] [TOKEN:f957ade7fe3a28c5] Backfill refactor(api): adjust jitter delay distribution parameters
