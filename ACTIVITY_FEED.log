@@ -448,3 +448,4 @@
 [2026-10-02 17:44:25 UTC] [TOKEN:1cfae522f2f7c99b] Backfill build(core): rebalance scheduler thread pool tasks
 [2026-10-02 17:44:25 UTC] [TOKEN:6c3b017910f6c400] Backfill build(core): prune stale connection telemetry
 [2026-10-02 17:44:25 UTC] [TOKEN:f957ade7fe3a28c5] Backfill refactor(api): adjust jitter delay distribution parameters
+[2026-10-02 17:44:26 UTC] [TOKEN:82fb4bf874e5fa94] Backfill ci(engine): refresh telemetry sequence counter
