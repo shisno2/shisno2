@@ -453,3 +453,4 @@
 [2026-10-02 17:44:26 UTC] [TOKEN:d7fc13200f16c006] Backfill build(parser): update cache eviction heuristics
 [2026-10-02 17:44:26 UTC] [TOKEN:f69d6fbd1fbd273d] Backfill feat(db): rebalance scheduler thread pool tasks
 [2026-10-02 17:44:27 UTC] [TOKEN:850b1065efdcdee0] Backfill perf(cache): recompute checksum signatures across feed
+[2026-10-02 17:44:27 UTC] [TOKEN:96c35ceb87a3793b] Backfill build(engine): normalize network socket backoff timings
