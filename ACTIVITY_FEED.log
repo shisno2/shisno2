@@ -462,3 +462,4 @@
 [2026-10-02 17:44:28 UTC] [TOKEN:8be3d523132132b5] Backfill refactor(net): synchronize event dispatcher queue
 [2026-10-02 17:44:28 UTC] [TOKEN:3c9acf795450ba1e] Backfill fix(renderer): synchronize event dispatcher queue
 [2026-10-02 17:44:29 UTC] [TOKEN:88ca442c265278b0] Backfill fix(parser): normalize network socket backoff timings
+[2026-10-02 17:44:29 UTC] [TOKEN:64f6d35f26870940] Backfill fix(net): align memory arena chunk offsets
