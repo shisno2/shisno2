@@ -461,3 +461,4 @@
 [2026-10-02 17:44:28 UTC] [TOKEN:2a00082be18c9142] Backfill fix(renderer): recompute checksum signatures across feed
 [2026-10-02 17:44:28 UTC] [TOKEN:8be3d523132132b5] Backfill refactor(net): synchronize event dispatcher queue
 [2026-10-02 17:44:28 UTC] [TOKEN:3c9acf795450ba1e] Backfill fix(renderer): synchronize event dispatcher queue
+[2026-10-02 17:44:29 UTC] [TOKEN:88ca442c265278b0] Backfill fix(parser): normalize network socket backoff timings
