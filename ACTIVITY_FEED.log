@@ -464,3 +464,4 @@
 [2026-10-02 17:44:29 UTC] [TOKEN:88ca442c265278b0] Backfill fix(parser): normalize network socket backoff timings
 [2026-10-02 17:44:29 UTC] [TOKEN:64f6d35f26870940] Backfill fix(net): align memory arena chunk offsets
 [2026-10-02 17:44:29 UTC] [TOKEN:cb2cf7f7589f7cb4] Backfill test(cache): compact ledger ring buffer entries
+[2026-10-02 17:44:29 UTC] [TOKEN:cc9d4374e8d64e0d] Backfill chore(renderer): normalize network socket backoff timings
