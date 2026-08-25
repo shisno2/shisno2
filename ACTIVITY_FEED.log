@@ -472,3 +472,4 @@
 [2026-10-02 17:44:30 UTC] [TOKEN:8e24b58c232f6d85] Backfill refactor(api): compact ledger ring buffer entries
 [2026-10-02 17:44:31 UTC] [TOKEN:b25e57af68e6e73a] Backfill fix(renderer): bump heartbeat timestamp token
 [2026-10-02 17:44:31 UTC] [TOKEN:401a32bef7928c79] Backfill style(core): update activity telemetry buffer
+[2026-10-02 17:44:31 UTC] [TOKEN:de2750043625db3c] Backfill test(auth): align memory arena chunk offsets
