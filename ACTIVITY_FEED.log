@@ -478,3 +478,4 @@
 [2026-10-02 17:44:32 UTC] [TOKEN:023e4d68aa71dd19] Backfill build(engine): adjust jitter delay distribution parameters
 [2026-10-02 17:44:32 UTC] [TOKEN:70bcd5ebb001b70a] Backfill refactor(auth): synchronize event dispatcher queue
 [2026-10-02 17:44:32 UTC] [TOKEN:f9e63c2afba18a78] Backfill test(worker): refresh telemetry sequence counter
+[2026-10-02 17:44:32 UTC] [TOKEN:f032b20ea97958d2] Backfill test(worker): synchronize event dispatcher queue
