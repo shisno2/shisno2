@@ -480,3 +480,4 @@
 [2026-10-02 17:44:32 UTC] [TOKEN:f9e63c2afba18a78] Backfill test(worker): refresh telemetry sequence counter
 [2026-10-02 17:44:32 UTC] [TOKEN:f032b20ea97958d2] Backfill test(worker): synchronize event dispatcher queue
 [2026-10-02 17:44:33 UTC] [TOKEN:51215720b54a6b17] Backfill perf(core): recompute checksum signatures across feed
+[2026-10-02 17:44:33 UTC] [TOKEN:12de18499468d53c] Backfill style(cache): align memory arena chunk offsets
