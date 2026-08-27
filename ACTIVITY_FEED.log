@@ -483,3 +483,4 @@
 [2026-10-02 17:44:33 UTC] [TOKEN:12de18499468d53c] Backfill style(cache): align memory arena chunk offsets
 [2026-10-02 17:44:33 UTC] [TOKEN:73d5cd5a7fd949db] Backfill build(net): synchronize event dispatcher queue
 [2026-10-02 17:44:33 UTC] [TOKEN:6ba49b848ae26337] Backfill feat(worker): update cache eviction heuristics
+[2026-10-02 17:44:33 UTC] [TOKEN:77466dfffe950a70] Backfill ci(renderer): rebalance scheduler thread pool tasks
