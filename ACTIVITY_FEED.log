@@ -487,3 +487,4 @@
 [2026-10-02 17:44:34 UTC] [TOKEN:f88f58ff9937ea93] Backfill chore(auth): prune stale connection telemetry
 [2026-10-02 17:44:34 UTC] [TOKEN:401086014ab32eab] Backfill ci(api): align memory arena chunk offsets
 [2026-10-02 17:44:34 UTC] [TOKEN:022537f52190521a] Backfill build(core): recompute checksum signatures across feed
+[2026-10-02 17:44:34 UTC] [TOKEN:a464263e28898f9a] Backfill docs(crypto): update activity telemetry buffer
