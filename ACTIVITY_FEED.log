@@ -491,3 +491,4 @@
 [2026-10-02 17:44:35 UTC] [TOKEN:3f0e9d81fa9cd047] Backfill test(cache): adjust jitter delay distribution parameters
 [2026-10-02 17:44:35 UTC] [TOKEN:8ecb1733dd5bc177] Backfill fix(db): rebalance scheduler thread pool tasks
 [2026-10-02 17:44:35 UTC] [TOKEN:ec47bdd16875dab5] Backfill refactor(crypto): normalize network socket backoff timings
+[2026-10-02 17:44:35 UTC] [TOKEN:66cf84169f75dc5e] Backfill ci(core): update cache eviction heuristics
