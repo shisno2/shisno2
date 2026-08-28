@@ -489,3 +489,4 @@
 [2026-10-02 17:44:34 UTC] [TOKEN:022537f52190521a] Backfill build(core): recompute checksum signatures across feed
 [2026-10-02 17:44:34 UTC] [TOKEN:a464263e28898f9a] Backfill docs(crypto): update activity telemetry buffer
 [2026-10-02 17:44:35 UTC] [TOKEN:3f0e9d81fa9cd047] Backfill test(cache): adjust jitter delay distribution parameters
+[2026-10-02 17:44:35 UTC] [TOKEN:8ecb1733dd5bc177] Backfill fix(db): rebalance scheduler thread pool tasks
