@@ -498,3 +498,4 @@
 [2026-10-02 17:44:36 UTC] [TOKEN:9bb0a0f51753345b] Backfill test(auth): adjust jitter delay distribution parameters
 [2026-10-02 17:44:36 UTC] [TOKEN:4a933d19699be68f] Backfill docs(net): compact ledger ring buffer entries
 [2026-10-02 17:44:37 UTC] [TOKEN:2c26f4bfffd78525] Backfill test(worker): adjust jitter delay distribution parameters
+[2026-10-02 17:44:37 UTC] [TOKEN:547f2aae45910fa1] Backfill ci(crypto): refactor pipeline state machine transitions
