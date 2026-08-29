@@ -494,3 +494,4 @@
 [2026-10-02 17:44:35 UTC] [TOKEN:66cf84169f75dc5e] Backfill ci(core): update cache eviction heuristics
 [2026-10-02 17:44:35 UTC] [TOKEN:5b86549808a5adf7] Backfill ci(core): prune stale connection telemetry
 [2026-10-02 17:44:36 UTC] [TOKEN:217c93738ec6f58b] Backfill chore(api): prune stale connection telemetry
+[2026-10-02 17:44:36 UTC] [TOKEN:cbef9be41d4ed1b6] Backfill ci(auth): align memory arena chunk offsets
