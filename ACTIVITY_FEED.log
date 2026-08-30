@@ -504,3 +504,4 @@
 [2026-10-02 17:44:38 UTC] [TOKEN:325bca929faeb309] Backfill perf(core): normalize network socket backoff timings
 [2026-10-02 17:44:38 UTC] [TOKEN:702dac025b007ae5] Backfill refactor(auth): compact ledger ring buffer entries
 [2026-10-02 17:44:38 UTC] [TOKEN:ec077e67532498ea] Backfill ci(worker): synchronize event dispatcher queue
+[2026-10-02 17:44:38 UTC] [TOKEN:80532db95145f8c3] Backfill chore(api): align memory arena chunk offsets
