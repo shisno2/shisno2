@@ -502,3 +502,4 @@
 [2026-10-02 17:44:37 UTC] [TOKEN:23e8b1a6d57c8b5c] Backfill refactor(core): compact ledger ring buffer entries
 [2026-10-02 17:44:37 UTC] [TOKEN:ea14927e528105f8] Backfill perf(core): bump heartbeat timestamp token
 [2026-10-02 17:44:38 UTC] [TOKEN:325bca929faeb309] Backfill perf(core): normalize network socket backoff timings
+[2026-10-02 17:44:38 UTC] [TOKEN:702dac025b007ae5] Backfill refactor(auth): compact ledger ring buffer entries
