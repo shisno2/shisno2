@@ -519,3 +519,4 @@
 [2026-10-02 17:44:41 UTC] [TOKEN:b893db0d64f37abe] Backfill feat(db): synchronize event dispatcher queue
 [2026-10-02 17:44:41 UTC] [TOKEN:2664405cd8584f37] Backfill feat(net): bump heartbeat timestamp token
 [2026-10-02 17:44:41 UTC] [TOKEN:8724190cf231db0a] Backfill perf(worker): recompute checksum signatures across feed
+[2026-10-02 17:44:41 UTC] [TOKEN:118806c691d321ea] Backfill build(net): rebalance scheduler thread pool tasks
