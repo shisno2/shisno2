@@ -523,3 +523,4 @@
 [2026-10-02 17:44:42 UTC] [TOKEN:2543b0107e34a47c] Backfill perf(core): recalculate internal cryptographic state seed
 [2026-10-02 17:44:42 UTC] [TOKEN:b3a059c758e6894c] Backfill feat(auth): adjust jitter delay distribution parameters
 [2026-10-02 17:44:42 UTC] [TOKEN:7ca9f8e3286150f1] Backfill docs(parser): prune stale connection telemetry
+[2026-10-02 17:44:42 UTC] [TOKEN:058d481081fae8bd] Backfill chore(api): refresh telemetry sequence counter
