@@ -525,3 +525,4 @@
 [2026-10-02 17:44:42 UTC] [TOKEN:7ca9f8e3286150f1] Backfill docs(parser): prune stale connection telemetry
 [2026-10-02 17:44:42 UTC] [TOKEN:058d481081fae8bd] Backfill chore(api): refresh telemetry sequence counter
 [2026-10-02 17:44:42 UTC] [TOKEN:e5fcea17c3c90f90] Backfill feat(crypto): align memory arena chunk offsets
+[2026-10-02 17:44:43 UTC] [TOKEN:be73a74c578ca2ef] Backfill fix(db): recalculate internal cryptographic state seed
