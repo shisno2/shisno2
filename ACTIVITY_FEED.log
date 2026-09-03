@@ -535,3 +535,4 @@
 [2026-10-02 17:44:44 UTC] [TOKEN:5f35ea9037f002b0] Backfill refactor(engine): recompute checksum signatures across feed
 [2026-10-02 17:44:44 UTC] [TOKEN:b3990e999b93fd6e] Backfill perf(worker): rebalance scheduler thread pool tasks
 [2026-10-02 17:44:44 UTC] [TOKEN:5a0991f79b05d8f1] Backfill fix(cache): rebalance scheduler thread pool tasks
+[2026-10-02 17:44:45 UTC] [TOKEN:3de8a1a8cfc990c9] Backfill style(db): refresh telemetry sequence counter
