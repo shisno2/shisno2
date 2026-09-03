@@ -532,3 +532,4 @@
 [2026-10-02 17:44:43 UTC] [TOKEN:aca65d805f61fc16] Backfill fix(net): update activity telemetry buffer
 [2026-10-02 17:44:44 UTC] [TOKEN:98280e6448171777] Backfill chore(db): refresh telemetry sequence counter
 [2026-10-02 17:44:44 UTC] [TOKEN:5578b462accebeb8] Backfill chore(parser): compact ledger ring buffer entries
+[2026-10-02 17:44:44 UTC] [TOKEN:5f35ea9037f002b0] Backfill refactor(engine): recompute checksum signatures across feed
