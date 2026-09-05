@@ -545,3 +545,4 @@
 [2026-10-02 17:44:46 UTC] [TOKEN:dd5c4ca56f219ae1] Backfill style(cache): compact ledger ring buffer entries
 [2026-10-02 17:44:46 UTC] [TOKEN:7a3cbd6f6e9e6bb4] Backfill build(worker): prune stale connection telemetry
 [2026-10-02 17:44:47 UTC] [TOKEN:77e003aae29d241b] Backfill fix(core): refresh telemetry sequence counter
+[2026-10-02 17:44:47 UTC] [TOKEN:f3fe9e4aa62b5851] Backfill perf(net): synchronize event dispatcher queue
