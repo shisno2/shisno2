@@ -543,3 +543,4 @@
 [2026-10-02 17:44:46 UTC] [TOKEN:7d6e7d132a38f0c3] Backfill chore(api): normalize network socket backoff timings
 [2026-10-02 17:44:46 UTC] [TOKEN:259d5d4644c45738] Backfill test(cache): prune stale connection telemetry
 [2026-10-02 17:44:46 UTC] [TOKEN:dd5c4ca56f219ae1] Backfill style(cache): compact ledger ring buffer entries
+[2026-10-02 17:44:46 UTC] [TOKEN:7a3cbd6f6e9e6bb4] Backfill build(worker): prune stale connection telemetry
