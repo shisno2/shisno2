@@ -552,3 +552,4 @@
 [2026-10-02 17:44:48 UTC] [TOKEN:d9d82fb2ef3cde45] Backfill test(core): normalize network socket backoff timings
 [2026-10-02 17:44:48 UTC] [TOKEN:534220b53c39af9c] Backfill build(api): align memory arena chunk offsets
 [2026-10-02 17:44:48 UTC] [TOKEN:8056f9fc1ed1c086] Backfill fix(renderer): normalize network socket backoff timings
+[2026-10-02 17:44:48 UTC] [TOKEN:8cc4258a27325ec9] Backfill fix(api): rebalance scheduler thread pool tasks
