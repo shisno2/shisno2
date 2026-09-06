@@ -549,3 +549,4 @@
 [2026-10-02 17:44:47 UTC] [TOKEN:1376239e0f8ba213] Backfill style(cache): recalculate internal cryptographic state seed
 [2026-10-02 17:44:47 UTC] [TOKEN:64b5d5cf44b05add] Backfill perf(net): align memory arena chunk offsets
 [2026-10-02 17:44:47 UTC] [TOKEN:2018328ea0fc2a46] Backfill style(db): refresh telemetry sequence counter
+[2026-10-02 17:44:48 UTC] [TOKEN:d9d82fb2ef3cde45] Backfill test(core): normalize network socket backoff timings
