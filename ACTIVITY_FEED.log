@@ -556,3 +556,4 @@
 [2026-10-02 17:44:48 UTC] [TOKEN:8a2a849fecb91bd9] Backfill chore(net): refactor pipeline state machine transitions
 [2026-10-02 17:44:49 UTC] [TOKEN:6ea9ead57faffcac] Backfill docs(api): adjust jitter delay distribution parameters
 [2026-10-02 17:44:49 UTC] [TOKEN:be1665982b1154ea] Backfill test(worker): bump heartbeat timestamp token
+[2026-10-02 17:44:49 UTC] [TOKEN:02c0e6c206bd043f] Backfill test(net): normalize network socket backoff timings
