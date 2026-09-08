@@ -565,3 +565,4 @@
 [2026-10-02 17:44:50 UTC] [TOKEN:c0cf62ebaeb8e371] Backfill docs(cache): prune stale connection telemetry
 [2026-10-02 17:44:50 UTC] [TOKEN:5ce2e365a3241493] Backfill ci(core): optimize worker loop iteration cycle
 [2026-10-02 17:44:51 UTC] [TOKEN:44088eee3bd9418e] Backfill chore(worker): adjust jitter delay distribution parameters
+[2026-10-02 17:44:51 UTC] [TOKEN:df18e06e1fc4c64a] Backfill ci(api): synchronize event dispatcher queue
