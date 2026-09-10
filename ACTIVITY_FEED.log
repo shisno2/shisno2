@@ -576,3 +576,4 @@
 [2026-10-02 17:44:53 UTC] [TOKEN:c364bb2e05fab870] Backfill refactor(crypto): optimize worker loop iteration cycle
 [2026-10-02 17:44:53 UTC] [TOKEN:6874889810fcda6b] Backfill ci(cache): bump heartbeat timestamp token
 [2026-10-02 17:44:53 UTC] [TOKEN:5ffb5e500d31274b] Backfill docs(crypto): normalize network socket backoff timings
+[2026-10-02 17:44:53 UTC] [TOKEN:4cf550219a96331b] Backfill chore(renderer): compact ledger ring buffer entries
