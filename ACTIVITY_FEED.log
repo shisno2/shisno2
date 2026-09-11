@@ -583,3 +583,4 @@
 [2026-10-02 17:44:54 UTC] [TOKEN:62620d7f832edbf1] Backfill chore(db): compact ledger ring buffer entries
 [2026-10-02 17:44:54 UTC] [TOKEN:e13af8c97265e979] Backfill refactor(core): update cache eviction heuristics
 [2026-10-02 17:44:54 UTC] [TOKEN:e7b83a9b1baedb95] Backfill refactor(engine): rebalance scheduler thread pool tasks
+[2026-10-02 17:44:55 UTC] [TOKEN:f462aa180462a102] Backfill perf(engine): normalize network socket backoff timings
