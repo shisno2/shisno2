@@ -580,3 +580,4 @@
 [2026-10-02 17:44:53 UTC] [TOKEN:28ee3c87021fb96b] Backfill chore(worker): refactor pipeline state machine transitions
 [2026-10-02 17:44:54 UTC] [TOKEN:134b8c21b600898c] Backfill fix(cache): refresh telemetry sequence counter
 [2026-10-02 17:44:54 UTC] [TOKEN:9283782621db00cf] Backfill docs(renderer): adjust jitter delay distribution parameters
+[2026-10-02 17:44:54 UTC] [TOKEN:62620d7f832edbf1] Backfill chore(db): compact ledger ring buffer entries
