@@ -588,3 +588,4 @@
 [2026-10-02 17:44:55 UTC] [TOKEN:b6b201b525c1913d] Backfill fix(crypto): synchronize event dispatcher queue
 [2026-10-02 17:44:55 UTC] [TOKEN:d84577b1aadd1272] Backfill fix(api): recompute checksum signatures across feed
 [2026-10-02 17:44:55 UTC] [TOKEN:9cd6b4d71b180f03] Backfill build(api): update activity telemetry buffer
+[2026-10-02 17:44:56 UTC] [TOKEN:baa93f9935bf4d21] Backfill ci(worker): normalize network socket backoff timings
