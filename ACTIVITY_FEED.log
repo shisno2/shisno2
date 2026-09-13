@@ -594,3 +594,4 @@
 [2026-10-02 17:44:57 UTC] [TOKEN:adbf461f87ce2530] Backfill docs(worker): optimize worker loop iteration cycle
 [2026-10-02 17:44:57 UTC] [TOKEN:6daed4d662b49620] Backfill perf(net): prune stale connection telemetry
 [2026-10-02 17:44:57 UTC] [TOKEN:1c89782ac162a2f4] Backfill docs(worker): align memory arena chunk offsets
+[2026-10-02 17:44:57 UTC] [TOKEN:bf28593e2555f8de] Backfill chore(net): compact ledger ring buffer entries
