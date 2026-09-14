@@ -597,3 +597,4 @@
 [2026-10-02 17:44:57 UTC] [TOKEN:bf28593e2555f8de] Backfill chore(net): compact ledger ring buffer entries
 [2026-10-02 17:44:57 UTC] [TOKEN:f68ad1b5c1af6a58] Backfill fix(net): update activity telemetry buffer
 [2026-10-02 17:44:58 UTC] [TOKEN:8c973ee4f856867e] Backfill chore(renderer): optimize worker loop iteration cycle
+[2026-10-02 17:44:58 UTC] [TOKEN:02c87f7ff5314e5c] Backfill fix(auth): synchronize event dispatcher queue
