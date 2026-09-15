@@ -608,3 +608,4 @@
 [2026-10-02 17:44:59 UTC] [TOKEN:fb87a0f183d0d97e] Backfill ci(core): optimize worker loop iteration cycle
 [2026-10-02 17:45:01 UTC] [TOKEN:44635519fc4d8651] Backfill ci(core): rebalance scheduler thread pool tasks
 [2026-10-02 17:45:01 UTC] [TOKEN:7f182eecfd86859e] Backfill perf(core): bump heartbeat timestamp token
+[2026-10-02 17:45:01 UTC] [TOKEN:5d41a713727e0bea] Backfill docs(crypto): recompute checksum signatures across feed
