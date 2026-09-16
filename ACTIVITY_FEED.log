@@ -614,3 +614,4 @@
 [2026-10-02 17:45:02 UTC] [TOKEN:40cd01554bb72b28] Backfill feat(parser): refresh telemetry sequence counter
 [2026-10-02 17:45:02 UTC] [TOKEN:464c5ede94cb1694] Backfill perf(parser): update activity telemetry buffer
 [2026-10-02 17:45:02 UTC] [TOKEN:44cd08bc7ca11cde] Backfill feat(renderer): update activity telemetry buffer
+[2026-10-02 17:45:03 UTC] [TOKEN:c73c5419bae1b6e6] Backfill feat(core): update cache eviction heuristics
