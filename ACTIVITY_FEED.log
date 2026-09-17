@@ -623,3 +623,4 @@
 [2026-10-02 17:45:04 UTC] [TOKEN:b94c5754a8bc4502] Backfill fix(renderer): prune stale connection telemetry
 [2026-10-02 17:45:04 UTC] [TOKEN:a572386b403ced66] Backfill style(cache): recompute checksum signatures across feed
 [2026-10-02 17:45:04 UTC] [TOKEN:0fa76996917fe168] Backfill fix(api): update cache eviction heuristics
+[2026-10-02 17:45:04 UTC] [TOKEN:8a3b864ee4879fba] Backfill build(parser): synchronize event dispatcher queue
