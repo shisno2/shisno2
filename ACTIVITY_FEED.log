@@ -629,3 +629,4 @@
 [2026-10-02 17:45:05 UTC] [TOKEN:173262dd5747858b] Backfill fix(db): align memory arena chunk offsets
 [2026-10-02 17:45:05 UTC] [TOKEN:e581f56d5df8d147] Backfill fix(net): rebalance scheduler thread pool tasks
 [2026-10-02 17:45:05 UTC] [TOKEN:2fcd51fc2a9ca18b] Backfill perf(engine): recompute checksum signatures across feed
+[2026-10-02 17:45:06 UTC] [TOKEN:2d29594d68fb3ec5] Backfill ci(renderer): compact ledger ring buffer entries
