@@ -626,3 +626,4 @@
 [2026-10-02 17:45:04 UTC] [TOKEN:8a3b864ee4879fba] Backfill build(parser): synchronize event dispatcher queue
 [2026-10-02 17:45:04 UTC] [TOKEN:295c690f4851e827] Backfill docs(renderer): compact ledger ring buffer entries
 [2026-10-02 17:45:05 UTC] [TOKEN:a3900d8a9351b34f] Backfill docs(api): update activity telemetry buffer
+[2026-10-02 17:45:05 UTC] [TOKEN:173262dd5747858b] Backfill fix(db): align memory arena chunk offsets
