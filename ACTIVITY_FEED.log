@@ -632,3 +632,4 @@
 [2026-10-02 17:45:06 UTC] [TOKEN:2d29594d68fb3ec5] Backfill ci(renderer): compact ledger ring buffer entries
 [2026-10-02 17:45:06 UTC] [TOKEN:7b1fb08d495e295d] Backfill fix(net): refresh telemetry sequence counter
 [2026-10-02 17:45:06 UTC] [TOKEN:a6dc73e6d89998b8] Backfill test(worker): normalize network socket backoff timings
+[2026-10-02 17:45:06 UTC] [TOKEN:317c4464ec7bb349] Backfill feat(auth): prune stale connection telemetry
