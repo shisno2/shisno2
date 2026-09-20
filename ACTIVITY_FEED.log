@@ -636,3 +636,4 @@
 [2026-10-02 17:45:06 UTC] [TOKEN:8f73465cef99dab0] Backfill chore(renderer): synchronize event dispatcher queue
 [2026-10-02 17:45:06 UTC] [TOKEN:7f90939a94424013] Backfill refactor(crypto): normalize network socket backoff timings
 [2026-10-02 17:45:07 UTC] [TOKEN:7ff184e637660e59] Backfill test(api): recompute checksum signatures across feed
+[2026-10-02 17:45:07 UTC] [TOKEN:89f661efb4adac50] Backfill refactor(worker): refresh telemetry sequence counter
