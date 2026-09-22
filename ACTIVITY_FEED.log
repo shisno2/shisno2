@@ -650,3 +650,4 @@
 [2026-10-02 17:45:09 UTC] [TOKEN:e7610a4bc9c8247e] Backfill feat(api): rebalance scheduler thread pool tasks
 [2026-10-02 17:45:10 UTC] [TOKEN:64f0522b9343719f] Backfill chore(net): refresh telemetry sequence counter
 [2026-10-02 17:45:10 UTC] [TOKEN:b1076843b3b2d582] Backfill chore(api): adjust jitter delay distribution parameters
+[2026-10-02 17:45:10 UTC] [TOKEN:1ddc24bac5984ecf] Backfill fix(parser): normalize network socket backoff timings
