@@ -653,3 +653,4 @@
 [2026-10-02 17:45:10 UTC] [TOKEN:1ddc24bac5984ecf] Backfill fix(parser): normalize network socket backoff timings
 [2026-10-02 17:45:10 UTC] [TOKEN:5bf5749f9ec8546b] Backfill test(crypto): optimize worker loop iteration cycle
 [2026-10-02 17:45:10 UTC] [TOKEN:a3b7a1d975ad9162] Backfill fix(cache): update activity telemetry buffer
+[2026-10-02 17:45:11 UTC] [TOKEN:43427ddc1f956167] Backfill ci(db): rebalance scheduler thread pool tasks
