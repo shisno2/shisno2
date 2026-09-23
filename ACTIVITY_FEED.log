@@ -656,3 +656,4 @@
 [2026-10-02 17:45:11 UTC] [TOKEN:43427ddc1f956167] Backfill ci(db): rebalance scheduler thread pool tasks
 [2026-10-02 17:45:11 UTC] [TOKEN:c8fa116912159fde] Backfill docs(auth): compact ledger ring buffer entries
 [2026-10-02 17:45:11 UTC] [TOKEN:98f5d1410a773341] Backfill docs(engine): optimize worker loop iteration cycle
+[2026-10-02 17:45:11 UTC] [TOKEN:cfab03a9f28d9c7c] Backfill ci(engine): refresh telemetry sequence counter
