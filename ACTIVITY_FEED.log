@@ -662,3 +662,4 @@
 [2026-10-02 17:45:12 UTC] [TOKEN:4975760304449c4d] Backfill style(crypto): refresh telemetry sequence counter
 [2026-10-02 17:45:12 UTC] [TOKEN:5c6a088df26ac9c6] Backfill refactor(net): align memory arena chunk offsets
 [2026-10-02 17:45:13 UTC] [TOKEN:1735555962692da0] Backfill chore(renderer): update activity telemetry buffer
+[2026-10-02 17:45:13 UTC] [TOKEN:2371fc8ff0e03d5b] Backfill feat(engine): rebalance scheduler thread pool tasks
