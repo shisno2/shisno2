@@ -670,3 +670,4 @@
 [2026-10-02 17:45:14 UTC] [TOKEN:ba161b922f78c82b] Backfill fix(worker): recalculate internal cryptographic state seed
 [2026-10-02 17:45:14 UTC] [TOKEN:3df2258861001ee1] Backfill refactor(db): synchronize event dispatcher queue
 [2026-10-02 17:45:14 UTC] [TOKEN:c352e16606f1750a] Backfill chore(net): rebalance scheduler thread pool tasks
+[2026-10-02 17:45:14 UTC] [TOKEN:c2ca4900e23e776f] Backfill test(db): normalize network socket backoff timings
