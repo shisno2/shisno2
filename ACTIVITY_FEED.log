@@ -676,3 +676,4 @@
 [2026-10-02 17:45:15 UTC] [TOKEN:bc807d016314b85c] Backfill chore(parser): update activity telemetry buffer
 [2026-10-02 17:45:15 UTC] [TOKEN:5046a9e5b552c392] Backfill fix(api): synchronize event dispatcher queue
 [2026-10-02 17:45:16 UTC] [TOKEN:84fe1381e07c2535] Backfill build(parser): recalculate internal cryptographic state seed
+[2026-10-02 17:45:16 UTC] [TOKEN:6b15f63adcc252c0] Backfill feat(engine): prune stale connection telemetry
