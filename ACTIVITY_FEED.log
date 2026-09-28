@@ -683,3 +683,4 @@
 [2026-10-02 17:45:17 UTC] [TOKEN:659bf48798267656] Backfill fix(worker): rebalance scheduler thread pool tasks
 [2026-10-02 17:45:17 UTC] [TOKEN:307de1474d3cf6a0] Backfill test(engine): refactor pipeline state machine transitions
 [2026-10-02 17:45:17 UTC] [TOKEN:550c1d3261d1d673] Backfill ci(auth): bump heartbeat timestamp token
+[2026-10-02 17:45:17 UTC] [TOKEN:e279e58c52bf7df7] Backfill ci(core): normalize network socket backoff timings
