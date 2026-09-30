@@ -697,3 +697,4 @@
 [2026-10-02 17:45:19 UTC] [TOKEN:e471ee751167cf91] Backfill fix(db): bump heartbeat timestamp token
 [2026-10-02 17:45:19 UTC] [TOKEN:060afad1b93a0e19] Backfill feat(renderer): recompute checksum signatures across feed
 [2026-10-02 17:45:20 UTC] [TOKEN:1f8e4e073a793127] Backfill feat(cache): optimize worker loop iteration cycle
+[2026-10-02 17:45:20 UTC] [TOKEN:13cbc3eba08bd682] Backfill feat(cache): rebalance scheduler thread pool tasks
