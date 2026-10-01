@@ -703,3 +703,4 @@
 [2026-10-02 17:45:20 UTC] [TOKEN:2483c50be26f7438] Backfill refactor(net): update cache eviction heuristics
 [2026-10-02 17:45:21 UTC] [TOKEN:31aa3b170e46067c] Backfill fix(renderer): adjust jitter delay distribution parameters
 [2026-10-02 17:45:21 UTC] [TOKEN:0e8eb3042ecff895] Backfill refactor(db): update cache eviction heuristics
+[2026-10-02 17:45:21 UTC] [TOKEN:8c80b460c19e171a] Backfill test(worker): update cache eviction heuristics
