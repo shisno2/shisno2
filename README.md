@@ -37,12 +37,12 @@
 ### 📊 GitHub Live Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shisno2&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shisno2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shisno2&theme=tokyonight&hide_border=true&border_radius=8&t=1" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shisno2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&t=1" alt="GitHub Stats" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shisno2&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shisno2&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&t=1" alt="Top Languages" width="58%" />
 </p>
 
 ---
